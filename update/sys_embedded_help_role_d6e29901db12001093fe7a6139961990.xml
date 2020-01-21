@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_219519_cars.admin" name="x_219519_cars.admin">0ae29901db12001093fe7a613996198d</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-10 15:55:53</sys_created_on>
+        <sys_id>d6e29901db12001093fe7a6139961990</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>0ae29901db12001093fe7a613996198d</sys_name>
+        <sys_package display_value="Cars" source="x_219519_cars">04625d85db12001093fe7a61399619db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Cars">04625d85db12001093fe7a61399619db</sys_scope>
+        <sys_update_name>sys_embedded_help_role_d6e29901db12001093fe7a6139961990</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-10 15:55:53</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

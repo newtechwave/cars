@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Car" max_length="40" name="x_219519_cars_car" type="collection">
+        <element label="Car Make" max_length="32" name="car_make" reference="x_219519_cars_car_make" type="reference"/>
+        <element dependent="car_make" dependent_on_field="car_make" label="Car Model" max_length="32" name="car_model" reference="x_219519_cars_car_model" type="reference" use_dependent_field="true"/>
+        <element label="Full Car" max_length="320" name="full_car" type="string"/>
+        <element label="Year" max_length="40" name="year" type="integer"/>
+        <index name="index">
+            <element name="car_model"/>
+        </index>
+        <index name="index2">
+            <element name="car_make"/>
+        </index>
+    </element>
+</database>

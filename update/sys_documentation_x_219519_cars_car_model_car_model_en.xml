@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="car_model" label="Car Model" language="en" table="x_219519_cars_car_model">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>car_model</element>
+            <help/>
+            <hint/>
+            <label>Car Model</label>
+            <language>en</language>
+            <name>x_219519_cars_car_model</name>
+            <plural>Car Models</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-10 18:15:46</sys_created_on>
+            <sys_id>97e27d45db92001093fe7a61399619e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Car Model</sys_name>
+            <sys_package display_value="Cars" source="x_219519_cars">04625d85db12001093fe7a61399619db</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Cars">04625d85db12001093fe7a61399619db</sys_scope>
+            <sys_update_name>sys_documentation_x_219519_cars_car_model_car_model_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-10 18:15:46</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

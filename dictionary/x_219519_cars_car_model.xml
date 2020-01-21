@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Car Model" max_length="40" name="x_219519_cars_car_model" type="collection">
+        <element label="Car Make" max_length="32" name="car_make" reference="x_219519_cars_car_make" type="reference"/>
+        <element display="true" label="Car Model" max_length="200" name="car_model" type="string"/>
+        <index name="index">
+            <element name="car_make"/>
+        </index>
+    </element>
+</database>
